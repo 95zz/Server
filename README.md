@@ -64,7 +64,7 @@ Using JRE_HOME: /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/
            keystoreFile="bin/.keystore"
            keystorePass="Pingan968" />
 4: 将.keystore文件拷入到/Library/Tomcat/bin 文件夹下面
-.keystore文件下载地址：
+.keystore文件下载地址："https://github.com/indexjincieryi/Server/"
 回车之后如果看到Apache Tomcat，表示已经成功运行Tomcat 
 5: 配置完成后，需要重启重Tomcat服务器
 6: 浏览器输入"https://localhost:8443"即可访问 https的服务器了
